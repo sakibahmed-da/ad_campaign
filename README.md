@@ -34,18 +34,19 @@ This project provides cluster analysis to examine a social media ad campaign dat
 ## Repository Files
 
 [digital_marketing_campaign_dataset.csv](https://github.com/sakibahmed-da/ad_campaign/blob/main/digital_marketing_campaign_dataset.csv) - Raw ad campaign dataset 
+
 [query_marketing_campaign.sql](https://github.com/sakibahmed-da/ad_campaign/blob/main/query_marketing_campaign.sql) - SQL Queries
+
 [report_marketing_campaign.pdf](https://github.com/sakibahmed-da/ad_campaign/blob/main/report_marketing_campaign.pdf) - Report about the project
 
 ### Let's Connect
 If you like this project, feel free to  star the repository and share your thoughts
 
-- [Linkedin][]
-- [E-mail][]
+- [Linkedin](https://www.linkedin.com/in/sakibahmed-da)
+- [E-mail](ahmedsakib2002@gmail.com)
 
-### Portfolio website
+### Other Portfolio Link
 
-> [Datacamp][]
 > [Hacker Rank][https://www.hackerrank.com/profile/ahmedsakib540]
 
 
