@@ -47,7 +47,7 @@ If you like this project, feel free to  star the repository and share your thoug
 
 ### Other Portfolio Link
 
-> [Hacker Rank][https://www.hackerrank.com/profile/ahmedsakib540]
+> [Hacker Rank](https://www.hackerrank.com/profile/ahmedsakib540)
 
 
 
