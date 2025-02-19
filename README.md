@@ -12,9 +12,9 @@ This project provides cluster analysis to examine a social media ad campaign dat
 - Engagement rate in different campaign
 
 ## Tools Used
-- Kaggle- For dataset ![link][https://www.kaggle.com/datasets/arpit2712/digital-marketing-company]
-- Ms SQL Server Management Tool- For loading and querying
-- MySQL - For data queries
+- **Kaggle**- For dataset [link](https://www.kaggle.com/datasets/arpit2712/digital-marketing-company)
+- **Ms SQL Server Management Tool**- For loading and querying the dataset
+- **MySQL** - For data queries
 
 ## Data Insights & Analysis
 
@@ -28,14 +28,14 @@ This project provides cluster analysis to examine a social media ad campaign dat
 
 - **Opt-out rates across campaigns are nearly 50%, indicating moderate interest but a need to improve engagement and conversion.**
 
-> Check the Full report about this project ![click][https://github.com/sakibahmed-da/ad_campaign/blob/main/report_marketing_campaign.pdf]
+> Check the Full report about this project [click](https://github.com/sakibahmed-da/ad_campaign/blob/main/report_marketing_campaign.pdf)
 
 
 ## Repository Files
 
-[digital_marketing_campaign_dataset.csv][https://github.com/sakibahmed-da/ad_campaign/blob/main/digital_marketing_campaign_dataset.csv] - Raw ad campaign dataset 
-[query_marketing_campaign.sql][https://github.com/sakibahmed-da/ad_campaign/blob/main/query_marketing_campaign.sql] - SQL Queries
-[report_marketing_campaign.pdf][https://github.com/sakibahmed-da/ad_campaign/blob/main/report_marketing_campaign.pdf] - Report about the project
+[digital_marketing_campaign_dataset.csv](https://github.com/sakibahmed-da/ad_campaign/blob/main/digital_marketing_campaign_dataset.csv) - Raw ad campaign dataset 
+[query_marketing_campaign.sql](https://github.com/sakibahmed-da/ad_campaign/blob/main/query_marketing_campaign.sql) - SQL Queries
+[report_marketing_campaign.pdf](https://github.com/sakibahmed-da/ad_campaign/blob/main/report_marketing_campaign.pdf) - Report about the project
 
 ### Let's Connect
 If you like this project, feel free to  star the repository and share your thoughts
