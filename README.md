@@ -12,7 +12,7 @@ This project provides cluster analysis to examine a social media ad campaign dat
 - Engagement rate in different campaign
 
 ## Tools Used
-- Kaggle- For dataset [link][https://www.kaggle.com/datasets/arpit2712/digital-marketing-company]
+- Kaggle- For dataset ![link][https://www.kaggle.com/datasets/arpit2712/digital-marketing-company]
 - Ms SQL Server Management Tool- For loading and querying
 - MySQL - For data queries
 
